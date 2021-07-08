@@ -1,0 +1,1 @@
+{"schemaVersion":2,"manifests":[{"mediaType":"application/vnd.oci.image.manifest.v1+json","digest":"sha256:8fd99ee0aebadaa2678fbc8ed0924ce38de5c943847e4e495b600d8b40f3b863","size":322,"annotations":{"org.opencontainers.image.ref.name":"myhelm:0.1.0"}}]}
